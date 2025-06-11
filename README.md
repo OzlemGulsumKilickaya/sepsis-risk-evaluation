@@ -17,21 +17,37 @@ This repository contains the complete workflow for a longitudinal biomarker-base
 
 sepsis-biomarker-analysis/
 ├── data/
-│ └── Raw_data_JB_Ozlem.xlsx # Original clinical and biomarker data
 │
+└── Raw_data_JB_Ozlem.xlsx # Original clinical and biomarker data
+
+│
+
 ├── notebooks/
+
 │ ├── Step1_7_previous.ipynb # Initial preprocessing steps
+
 │ ├── Updated_6B and C_May_6.ipynb # Day-wise AUC and regression analysis
+
 │ ├── Step_8.ipynb # Extended modeling (multivariate)
+
 │ └── Step_9.ipynb # Final comparisons and visualizations
+
 │
+
 ├── reports/
+
 │ ├── Sepsis_Biomarker_Final_Report_JB.docx
+
 │ └── JB_Results_Ozlen_revised.docx
+
 │
+
 ├── references/
+
 │ ├── SPSS codes_Ozlem.docx
+
 │ └── JB_Results_Ozlen.docx
+
 │
 ├── LICENSE
 ├── .gitignore
