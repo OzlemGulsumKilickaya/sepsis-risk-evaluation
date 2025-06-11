@@ -67,20 +67,11 @@ sepsis-biomarker-analysis/
    ```bash
    git clone https://github.com/OzlemGulsumKilickaya/sepsis-biomarker-analysis.git
    cd sepsis-biomarker-analysis
-Install Python dependencies:
-pip install -r requirements.txt
-Launch notebooks:
-jupyter notebook notebooks/
+
 
 🙌 Acknowledgments
 Project contributors and clinical partners
 
-Statistical procedures inspired by SPSS and adapted to Python
+Statistical procedures inspired by SPSS and adapted to R 
 
 Data anonymized for ethical compliance
-
-📌 Notes
-
-All patient data is de-identified and used for academic purposes only.
-
-Final report format follows internal standards required for client submission.
